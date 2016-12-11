@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Cześć! Witaj na Bootcampie Sages</h2>
 </body>
 </html>
